@@ -1,4 +1,4 @@
-# OBINexus POP Framework – Puppet Protocol for Neurodivergent Development
+# OBINexus PRO Framework – Proper Relay Protocol for Neurodivergent Development
 
 **"When systems fail, build your own coherence."**
 *By Nnamdi Michael Okpala / OBINexus*
@@ -14,7 +14,7 @@ License: [LICENSE.md](./LICENSE.md)
    * [Plasma as a Constitutional Medium](#plasma-as-a-constitutional-medium)
    * [The 95.5 Aura Band](#the-955-aura-band)
 3. [Safety-Critical vs Raw Plasma Systems](#safety-critical-vs-raw-plasma-systems)
-4. [The Puppet Method Protocol (POP)](#the-puppet-method-protocol-pop)
+4. [The Puppet Method Protocol (pro)](#the-puppet-method-protocol-pro)
 5. [Real-World Applications](#real-world-applications)
 6. [Healing a Generation (Gen Z Context)](#healing-a-generation-gen-z-context)
 7. [Not Charity, But Constitutional Healing](#not-charity-but-constitutional-healing)
@@ -27,11 +27,11 @@ License: [LICENSE.md](./LICENSE.md)
 
 ## Overview
 
-The **Puppet Protocol (POP)** is a human-centered system designed to help neurodivergent children express themselves, anchor identity, and rebuild agency in the wake of systemic collapse. POP integrates **plasma coherence technology** within a constitutional framework to provide **stability, safety, and continuity** where health and social systems fail.
+The **Puppet Protocol (pro)** is a human-centered system designed to help neurodivergent children express themselves, anchor identity, and rebuild agency in the wake of systemic collapse. pro integrates **plasma coherence technology** within a constitutional framework to provide **stability, safety, and continuity** where health and social systems fail.
 
 This is **not charity** — it is a framework for **healing a generation** through constitutional and energetic coherence.
 
-POP’s foundation lies in the **95.5 Aura Plasma Coherence System**, a mechanism built to stabilize human and systemic feedback using adaptive plasma fields and ethical constraints.
+pro’s foundation lies in the **95.5 Aura Plasma Coherence System**, a mechanism built to stabilize human and systemic feedback using adaptive plasma fields and ethical constraints.
 
 ---
 
@@ -66,7 +66,7 @@ The **95.5 Aura Band** represents the ratio between stability (95.5%) and adapti
 | Property        | Raw Plasma Engine            | Safety-Critical (Constitutional) Plasma System |
 | --------------- | ---------------------------- | ---------------------------------------------- |
 | Containment     | Rigid, failure-prone chamber | Adaptive multi-field confinement               |
-| Feedback        | Manual, delayed              | Real-time coherence feedback (POP protocol)    |
+| Feedback        | Manual, delayed              | Real-time coherence feedback (pro protocol)    |
 | Stress Response | Runaway or arc collapse      | Dynamic damping and field redistribution       |
 | Human Analogy   | Burnout / breakdown          | Neuroplastic resilience / adaptation           |
 | AI Analogy      | Bias collapse                | Adaptive constitutional learning               |
@@ -75,9 +75,9 @@ In essence: a **safety-critical plasma system** *thinks with its field*, maintai
 
 ---
 
-## The Puppet Method Protocol (POP)
+## The Puppet Method Protocol (pro)
 
-POP serves as a living control system for coherence — whether biological, social, or energetic.
+pro serves as a living control system for coherence — whether biological, social, or energetic.
 
 **Process Loop:**
 
@@ -94,13 +94,13 @@ Where *f* is adaptive, constitutional, and ethically bounded.
 3. **Correct:** Apply harmonic feedback (energetic or behavioral).
 4. **Reinforce:** Stabilize coherence with minimal intervention.
 
-POP enforces ethical and energetic boundaries as naturally as plasma fields enforce confinement.
+pro enforces ethical and energetic boundaries as naturally as plasma fields enforce confinement.
 
 ---
 
 ## Real-World Applications
 
-| Domain             | Example                       | POP Role                                             |
+| Domain             | Example                       | pro Role                                             |
 | ------------------ | ----------------------------- | ---------------------------------------------------- |
 | **Aerospace**      | Plasma propulsion systems     | Field coherence stabilization under variable thrust  |
 | **Healthcare**     | BCI and neurofeedback therapy | Maintains neural stability under cognitive stress    |
@@ -111,9 +111,9 @@ POP enforces ethical and energetic boundaries as naturally as plasma fields enfo
 
 ## Healing a Generation (Gen Z Context)
 
-POP is built for the generation born into instability. It redefines support systems as **constitutional plasma frameworks** — self-regulating, adaptive, and resilient.
+pro is built for the generation born into instability. It redefines support systems as **constitutional plasma frameworks** — self-regulating, adaptive, and resilient.
 
-When institutions collapse, POP restores coherence by making **feedback itself the constitution.**
+When institutions collapse, pro restores coherence by making **feedback itself the constitution.**
 
 Children become participants in self-healing systems, not subjects of broken bureaucracies.
 
@@ -121,7 +121,7 @@ Children become participants in self-healing systems, not subjects of broken bur
 
 ## Not Charity, But Constitutional Healing
 
-Stability is the foundation of human growth. POP transforms survival into sovereignty:
+Stability is the foundation of human growth. pro transforms survival into sovereignty:
 
 > “Even a puppet learns control when it understands the strings.”
 
@@ -139,8 +139,8 @@ This protocol empowers communities to reestablish order through coherence — no
 ### Steps
 
 ```bash
-git clone https://github.com/obinexus/pop.git
-cd pop
+git clone https://github.com/obinexus/pro.git
+cd pro
 ```
 
 ### Review Licenses
@@ -157,7 +157,7 @@ Contributions must:
 * Respect neurodivergent dignity and accessibility.
 * Uphold coherence safety principles.
 * Provide verifiable documentation.
-* Integrate with the POP ethical feedback model.
+* Integrate with the pro ethical feedback model.
 
 Use pull requests and document all protocol-level changes.
 
@@ -167,7 +167,7 @@ Use pull requests and document all protocol-level changes.
 
 ```
 Okpala, N.M. (2025).
-OBINexus POP Framework: Constitutional Plasma Coherence System for Resilient Generation Infrastructure.
+OBINexus pro Framework: Constitutional Plasma Coherence System for Resilient Generation Infrastructure.
 OBINexus Computing & Education Division.
 ```
 
@@ -176,7 +176,7 @@ OBINexus Computing & Education Division.
 ## Contact
 
 * **Email:** [support@obinexus.org](mailto:support@obinexus.org)
-* **Issues:** [https://github.com/obinexus/pop/issues](https://github.com/obinexus/pop/issues)
+* **Issues:** [https://github.com/obinexus/pro/issues](https://github.com/obinexus/pro/issues)
 
 ---
 
